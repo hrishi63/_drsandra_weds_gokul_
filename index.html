@@ -1290,7 +1290,6 @@
                  class="btn btn-royal">
                 🗺️ Open in Google Maps
               </a>
-              <button class="btn btn-outline" id="copyAddressBtn">📋 Copy Venue Address</button>
             </div>
           </div>
 
@@ -1490,17 +1489,6 @@
     }, { threshold: 0.1 });
 
     document.querySelectorAll(".reveal").forEach(el => revealObserver.observe(el));
-
-    // 5. Copy Venue Address to Clipboard
-    document.getElementById("copyAddressBtn").addEventListener("click", () => {
-      const addr = "Uday Palace Convention Centre, Kowdiar, Thiruvananthapuram, Kerala";
-      navigator.clipboard.writeText(addr).then(() => {
-        const btn = document.getElementById("copyAddressBtn");
-        const prevText = btn.textContent;
-        btn.textContent = "✅ Address Copied!";
-        setTimeout(() => btn.textContent = prevText, 2500);
-      });
-    });
   </script>
 </body>
 </html>

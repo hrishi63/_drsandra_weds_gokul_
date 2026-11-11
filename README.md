@@ -1,4 +1,4 @@
-# Wedding Invitation — Dr. Sandhra & Gokul
+# Dr. Sandhra ❤️ Gokul
 
 Interactive digital wedding ceremony invitation for the marriage of **Dr. Sandhra Sarath** with **Gokul Krishna. S**.
 

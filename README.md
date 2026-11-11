@@ -7,4 +7,4 @@ Interactive digital wedding ceremony invitation for the marriage of **Dr. Sandhr
 - 📍 **Venue**: Uday Palace Convention Centre, Kowdiar, Thiruvananthapuram, Kerala
 
 ## Live Invitation
-👉 [View Invitation](https://hrishi63.github.io/wedding-invitation/)
+👉 [View Invitation](https://hrishi63.github.io/_drsandra_weds_gokul_/)
